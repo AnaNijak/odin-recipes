@@ -1,0 +1,13 @@
+body {
+	background-color: beige;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	border: solid black 1px;
+	border-radius: 3%;
+	margin: 30px;
+}
